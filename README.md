@@ -24,4 +24,4 @@ The Notepad Application is a simple text editor built using Java Swing. It provi
 1. **Clone the Repository**:
    If you are using Git, you can clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/notepad-app.git
+   git clone https://github.com/Nagavignesh1729/LifeMaxxing.git
