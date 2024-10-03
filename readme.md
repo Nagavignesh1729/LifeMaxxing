@@ -1,23 +1,27 @@
 # Notepad Application
 
-This is a simple Notepad application built using Java Swing. It allows users to create, open, and save text files with a tabbed interface.
+## Overview
+
+The Notepad Application is a simple text editor built using Java Swing. It provides a user-friendly interface for creating and editing text documents. The application supports basic text formatting (underline) and file operations such as creating new files, opening existing files, and saving documents.
 
 ## Features
 
-- **Tabbed Interface**: Open multiple files in separate tabs.
-- **Create New File**: Start a new text document.
-- **Open Existing Files**: Load text files from your system.
-- **Save Files**: Save your current document to a file.
-- **User-Friendly Toolbar**: Quick access to file operations.
+- **Text Editing**: Create and edit text documents in a simple and intuitive interface.
+- **Text Formatting**: Supports underlining of selected text.
+- **Tabbed Interface**: Multiple documents can be open simultaneously, with each document in its own tab.
+- **File Operations**:
+  - **New**: Create a new document.
+  - **Open**: Load an existing text file.
+  - **Save**: Save the current document to a file.
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or higher
-- Any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse)
+- Java Development Kit (JDK) 8 or higher.
+- An IDE such as IntelliJ IDEA, Eclipse, or NetBeans (optional, but recommended for ease of development).
 
-## How to Run
+## Installation
 
-1. **Clone the repository** (if applicable) or download the source code.
-2. **Compile the Java file**:
+1. **Clone the Repository**:
+   If you are using Git, you can clone the repository to your local machine:
    ```bash
-   javac NotepadApp.java
+   git clone https://github.com/yourusername/notepad-app.git
